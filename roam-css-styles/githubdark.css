@@ -1,8 +1,11 @@
 /*
-Theme:      Roam GitHub Dark Theme
-Version:    1.0.0
-Edits by:   Ruth Oldja (https://rutholdja.netlify.app/)
-Colors by:  Ruth Oldja
+theme:      	Roam GitHub Dark Theme
+version:    	1.0.0
+by:				Ruth Oldja (https://rutholdja.netlify.app/)
+forked from:	calrobertlee/roam-css-styles
+
+how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz.github.io/roam-css-styles/githubdark.css');" into a codeblock of language type CSS
+
 */
 
 
@@ -247,12 +250,15 @@ Colors by:  Ruth Oldja
     background-color: hsl(227, 70%, 40%);
     color: hsl(0, 0%, 91%);
 }
+
 .rm-inline-references {
     background-color: hsl(204, 10%, 15%);
 }
+
 .rm-block__self .rm-block__ref-count.rm-active {
     background-color: #1f2022;
-} 
+}
+
 .rm-zoom-path .rm-zoom-item {
     color: hsl(0, 0%, 91%);
 }
