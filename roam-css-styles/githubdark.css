@@ -220,11 +220,11 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
 }
 
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .icon {
-	color: #F24B4B;
+    color: #F24B4B;
 }
 
 .rm-bullet__inner--user-icon {
-  	background-color: #F24B4B
+    background-color: #F24B4B
 }
 
 /* TEMP PATCH FOR EMBED */
