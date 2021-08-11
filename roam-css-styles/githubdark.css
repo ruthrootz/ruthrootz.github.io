@@ -54,7 +54,7 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
     --tagHover-bg-color: #2d3033;
     --tagHover-border: 1px solid #44464887;
 
-  	--rm-edited-email-color: #F24B4B;
+	--rm-edited-email-color: #F24B4B;
     --bullet-color: #00B1FB;
     --bullet-closed-color: #528ed24d;
     --bullet-closed-border-color: rgba(98, 167, 245, .3);
