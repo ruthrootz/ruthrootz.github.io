@@ -74,7 +74,7 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
 
     --code-bg: #151B26;
     --code-font: 'Source Code Pro', 'Courier New', Courier, monospace;
-    --code-font-color: #DCDEDD;
+    --code-font-color: #515355;
     --code-font-size: 1.0em;
     --code-border: 1px solid #34373b;
 
@@ -138,7 +138,7 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
     --search-font-color: var(--theme-gray-1);
     --search-body-font-color: #070A0D;
     --search-outline: #1e6897;
-    --search-bg: var(--theme-white-1);
+    --search-bg: #C832D8;
     --search-border-radius: 3px;
     --search-selected-row: #2c2d30;
 
