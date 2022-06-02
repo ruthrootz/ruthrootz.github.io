@@ -1,6 +1,6 @@
 /*
 theme: Roam GitHub Dark Theme
-version: 1.0.2
+version: 1.0.3
 by: Ruth Oldja (https://rutholdja.netlify.app/)
 forked from: calrobertlee/roam-css-styles
 how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz.github.io/roam-css-styles/githubdark.css');" into a codeblock of language type CSS
@@ -74,7 +74,7 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
 
     --code-bg: #151B26;
     --code-font: 'Source Code Pro', 'Courier New', Courier, monospace;
-    --code-font-color: #515355;
+    --code-font-color: #9ca3af;
     --code-font-size: 1.0em;
     --code-border: 1px solid #34373b;
 
