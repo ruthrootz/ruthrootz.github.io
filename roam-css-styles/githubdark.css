@@ -28,8 +28,8 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
     --alias-hover-color: hsl(230, 83%, 73%);
     --daily-notes-link-color: none;
     --sidebar-link-color: none;
-    --title-color: #c9d1d9;
-    --ref-title-color: #c9d1d9;
+    --title-color: #C9D1D9;
+    --ref-title-color: #C9D1D9;
     --header-color: var(--theme-gray-1);
     --strong: var(--theme-gray-1);
     --emphasis: var(--theme-gray-1);
@@ -37,26 +37,26 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
     --highlight-background-color: #A6142F;
     --highlight-link-color: var(--theme-blue-1);
     --highlight-padding: 4px 5px 4px 5px;
-    --reference-header-color: #313b45;
-    --reference-header-underline-color: #313b4582;
+    --reference-header-color: #313B45;
+    --reference-header-underline-color: #313B4582;
     --sidebar-font-color: #C8D1D8;
-    --sidebar-font-color-hover: #8f8f8f;
+    --sidebar-font-color-hover: #8F8F8F;
     --sidebar-hover-bg: none;
-    --sidebar-font-hover-color: #8f8f8f;
+    --sidebar-font-hover-color: #8F8F8F;
     --sidebar-shorcut-color: #0597F2;
 
     --tag-font-color: #515355;
-    --tag-bg-color: #24272a;
+    --tag-bg-color: #24272A;
     --tag-border-radius: 10px;
     --tag-border: 1px solid #35373996;
     --tag-padding: 1px 5px 2px;
-    --tagHover-font-color: #484a4c;
-    --tagHover-bg-color: #2d3033;
+    --tagHover-font-color: #484A4C;
+    --tagHover-bg-color: #2D3033;
     --tagHover-border: 1px solid #44464887;
 
     --rm-edited-email-color: #F24B4B;
     --bullet-color: #00B1FB;
-    --bullet-closed-color: #528ed24d;
+    --bullet-closed-color: #528ED24D;
     --bullet-closed-border-color: rgba(98, 167, 245, .3);
     --multibar: hsl(210, 7%, 25%);
     /*--bullet-position: ;*/
